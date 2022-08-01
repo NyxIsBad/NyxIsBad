@@ -5,6 +5,6 @@ I'm a pretty casual programmer in high school - this particular github account i
 I have a website that's work in progress! You can find it at [hijiri.dev](https://www.hijiri.dev)
 
 ## Here are my github stats: 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NyxIsBad&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NyxIsBad&show_icons=true&include_all_commits=true&theme=radical)
 
 Much thanks to @anuraghazra for the stats card
