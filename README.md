@@ -7,6 +7,8 @@ I'm familiar with C I99, Java (and using JavaFX), CSS, and JS (Svelte). I also h
 I have a website that's work in progress! You can find it at [hijiri.dev](https://www.hijiri.dev)
 
 ## Here are my github stats: 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NyxIsBad&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NyxIsBad&include_all_commits=true&show_icons=true&number_format=long&theme=radical)
+
+![Github languges](https://github-readme-stats.vercel.app/api/top-langs/?username=NyxIsBad&langs_count=5&theme=radical)
 
 Much thanks to @anuraghazra for the stats card!
