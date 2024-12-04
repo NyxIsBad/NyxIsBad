@@ -1,9 +1,9 @@
 # Hello!
 
-I'm a pretty casual 3nd year CS and Math major in college. I maintain the ClearVision Organization with over 2 million known downloads, and have experience in medical research, and full stack webdev. I'm interested in cybersec as well, although I'm not the greatest at rev (I did learn an ok amount of binary exploitation). I encourage you to dm me at Nyx#9567 (now night.flower after the username changes) on discord with any of my stuff you may be using that I have broken, or join the ClearVision support server. I enjoy playing video games too (especially osu!) so let me know if you're a fan as well. 
+I'm a pretty casual 3nd year CS and Math major in college. I maintain the ClearVision Organization with over 2 million known downloads, and have experience in medical research and ML. I'm interested in cybersec and web dev as well, although I'm not the greatest at either (I did learn an ok amount of binary exploitation, and I enjoy working on full stack projects). I encourage you to dm me at Nyx#9567 (now night.flower after the username changes) on discord with any of my stuff you may be using that I have broken, or join the ClearVision support server. I enjoy playing video games too (especially osu!) so let me know if you're a fan as well. 
 
 My main languages are 
-- Python (scientific work/libraries + flask/django & webdev + cybersec (pwntools etc) + a good amount of scripting).
+- Python (scientific work (pytorch, scikit, np, etc) + flask/django & webdev + cybersec (pwntools etc) + a good amount of scripting).
 - C (I99)
 - Java
 - CSS (ok this is technically not a language but I'm *pretty* good at it)
